@@ -18,7 +18,7 @@ public class OrgTest {
 		System.out.println(USERNAME);
 		System.out.println(PASSWORD);
 		
-		System.out.println(" executed createOrgTest");
+		System.out.println(" executed createOrg Test without sop");
 	}
 
 	
